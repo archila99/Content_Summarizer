@@ -20,7 +20,7 @@ See [Prompt Engineering & Error Handling](prompt_engineering.md) for design deta
 2. **Installation**:
    ```bash
    # Navigate to the project folder
-   cd /path/to/Text-summarizer
+   cd /path/to/Summarizer
 
    # Create a virtual environment (optional but recommended)
    python3 -m venv venv
